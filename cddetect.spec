@@ -24,3 +24,10 @@ install -D -s %{name} %{buildroot}%{_bindir}
 
 %files
 %{_bindir}/%{name}
+
+
+%changelog
+* Wed Jan 04 2012 Alexander Khrukin <akhrukin@mandriva.org> 2.1-1
++ Revision: 753402
+- imported package cddetect
+
