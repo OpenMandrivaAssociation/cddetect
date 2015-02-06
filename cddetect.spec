@@ -1,7 +1,7 @@
 Summary:	A tool for detecting the type of a CD/DVD without mounting it
 Name:		cddetect
 Version:	2.1
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		Archiving/Cd burning
 Url:		http://www.bellut.net/projects.html
