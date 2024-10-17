@@ -4,7 +4,7 @@ Version:	2.1
 Release:	3
 License:	GPLv2+
 Group:		Archiving/Cd burning
-Url:		http://www.bellut.net/projects.html
+Url:		https://www.bellut.net/projects.html
 Source0:	http://www.bellut.net/files/%{name}-%{version}.tar.bz2
 
 %description
