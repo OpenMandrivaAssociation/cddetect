@@ -7,6 +7,7 @@ Group:		Archiving/Cd burning
 Url:		https://www.bellut.net/projects.html
 Source0:	http://www.bellut.net/files/%{name}-%{version}.tar.bz2
 
+BuildRequires:	make
 %description
 This program tries to detect the type of a CD/DVD without mounting it.
 It detects audio, ISO, VCD, SVCD and Video-DVD.
